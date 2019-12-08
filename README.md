@@ -1,3 +1,5 @@
+# Bengali GloVe Word Vectors
+
 ## GloVe: Global Vectors for Word Representation
 
 
@@ -13,7 +15,14 @@ We provide an implementation of the GloVe model for learning word representation
 
 ## Download Bengali pre-trained word vectors
 
-```Bengali glove word vector comming soon```
+* wikipedia+craw_articles (38.5M tokens, 0.23M vocab, 300d vectors, _ GB download): [bn_glove.38M.300d.zip]()
+
+* wikipeida+craw_articles (38.5M tokens, 0.23M vocab, 100d vectors, _ GB download): [bn_glove.38M.100d.zip]()
+
+* Wikipedia (19.7M tokens, 0.16M vocab, 300d vectors, _ GB download): [bn_glove.300d.zip]()
+
+* Wikipedia (19.7M tokens, 0.16M vocab, 100d vectors, _ GB download): [bn_glove.100d.zip]()
+
 
 ## Train word vectors on a new corpus
 
