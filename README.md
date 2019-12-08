@@ -21,7 +21,7 @@ We provide an implementation of the GloVe model for learning word representation
 
 * Wikipedia (19.7M tokens, 0.16M vocab, 300d vectors, 175MB download): [bn_glove.300d.zip](https://drive.google.com/open?id=1NbHfyPfQX3jF1dDuf7QmxYAmOXiaUZyW)
 
-* Wikipedia (19.7M tokens, 0.16M vocab, 100d vectors, _ GB download): [bn_glove.100d.zip]()
+* Wikipedia (19.7M tokens, 0.16M vocab, 100d vectors, 61.4MB download): [bn_glove.100d.zip](https://drive.google.com/open?id=1o2gTpaigxjSkng1XvmIxZRyowfTsj0PN)
 
 
 ## Train word vectors on a new corpus
