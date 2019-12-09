@@ -24,6 +24,11 @@ We provide an implementation of the GloVe model for learning word representation
 * Wikipedia (19.7M tokens, 0.16M vocab, 100d vectors, _ download): [bn_glove.100d.zip]()
 
 
+## Play With Pretrained Model
+
+```python test.py```
+
+
 ## Train word vectors on a new corpus
 
 <img src="https://travis-ci.org/stanfordnlp/GloVe.svg?branch=master"></img>
