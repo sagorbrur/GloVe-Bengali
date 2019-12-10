@@ -15,13 +15,13 @@ We provide an implementation of the GloVe model for learning word representation
 
 ## Download Bengali pre-trained word vectors
 
-* wikipedia+crawl_news_articles (39M(39055685) tokens, 0.18M(178152) vocab size, 195.4MB download): [bn_glove.38M.300d.zip](https://drive.google.com/open?id=1TugAM1l-hIIR2foW8KhckfCyMNfdmzCY)
+* wikipedia+crawl_news_articles (39M(39055685) tokens, 0.18M(178152) vocab size, 195.4MB download):</br> [bn_glove.38M.300d.zip](https://drive.google.com/open?id=1TugAM1l-hIIR2foW8KhckfCyMNfdmzCY)
 
-* wikipeida+crawl_news_articles (39M(39055685) tokens, 0.18M(178152) vocab size, 100d vectors, 65MB download): [bn_glove.38M.100d.zip](https://drive.google.com/open?id=1HJYOg3kEMVIrJ013Q8MeG0hRnMI3jxYx)
+* wikipeida+crawl_news_articles (39M(39055685) tokens, 0.18M(178152) vocab size, 100d vectors, 65MB download):</br> [bn_glove.38M.100d.zip](https://drive.google.com/open?id=1HJYOg3kEMVIrJ013Q8MeG0hRnMI3jxYx)
 
-* Wikipedia (20M(19965328) tokens, 0.13M(134255) vocab, 300d vectors, 145.9MB download): [bn_glove.300d.zip](https://drive.google.com/open?id=1o6wBjaRX8fUOZfqSAVA3TSBBNVVvk3nt)
+* Wikipedia (20M(19965328) tokens, 0.13M(134255) vocab, 300d vectors, 145.9MB download):</br> [bn_glove.300d.zip](https://drive.google.com/open?id=1o6wBjaRX8fUOZfqSAVA3TSBBNVVvk3nt)
 
-* Wikipedia (20M(19965328) tokens, 0.13M(134255), 100d vectors, 51.2MB download): [bn_glove.100d.zip](https://drive.google.com/open?id=1in1MbQXieuvytsqIP9Q8qFgnTSZEHMue)
+* Wikipedia (20M(19965328) tokens, 0.13M(134255), 100d vectors, 51.2MB download):</br> [bn_glove.100d.zip](https://drive.google.com/open?id=1in1MbQXieuvytsqIP9Q8qFgnTSZEHMue)
 
 
 ## Play With Pretrained Model
