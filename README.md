@@ -1,5 +1,7 @@
 # Bengali GloVe Word Vectors
 
+* [Bengali Pretrained Vectors](#download-bengali-pre-trained-word-vectors)
+
 ## GloVe: Global Vectors for Word Representation
 
 
