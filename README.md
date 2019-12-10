@@ -15,7 +15,7 @@ We provide an implementation of the GloVe model for learning word representation
 
 ## Download Bengali pre-trained word vectors
 
-* wikipedia+crawl_news_articles (39M(39055685) tokens, 0.18M(178152) vocab size, 195.4MB download): [bn_glove.38M.300d.zip]()
+* wikipedia+crawl_news_articles (39M(39055685) tokens, 0.18M(178152) vocab size, 195.4MB download): [bn_glove.38M.300d.zip](https://drive.google.com/open?id=1TugAM1l-hIIR2foW8KhckfCyMNfdmzCY)
 
 * wikipeida+crawl_news_articles (39M(39055685) tokens, 0.18M(178152) vocab size, 100d vectors, 65MB download): [bn_glove.38M.100d.zip](https://drive.google.com/open?id=1HJYOg3kEMVIrJ013Q8MeG0hRnMI3jxYx)
 
