@@ -36,13 +36,11 @@ def evaluate_vectors(W, vocab, ivocab):
     """Evaluate the trained word vectors on a variety of tasks"""
 
     filenames = [
-        'capital-common-countries.txt', 'capital-world.txt', 'currency.txt',
-        'city-in-state.txt', 'family.txt', 'gram1-adjective-to-adverb.txt',
-        'gram2-opposite.txt', 'gram3-comparative.txt', 'gram4-superlative.txt',
-        'gram5-present-participle.txt', 'gram6-nationality-adjective.txt',
-        'gram7-past-tense.txt', 'gram8-plural.txt', 'gram9-plural-verbs.txt',
+        'capital-common-countries-bn.txt', 'capital-world-bn.txt', 'currency-bn.txt',
+        'family-bn.txt',
         ]
-    prefix = './eval/question-data/'
+
+    prefix = './eval/question-data-bn'
 
     # to avoid memory overflow, could be increased/decreased
     # depending on system and vocab size
@@ -61,7 +59,7 @@ def evaluate_vectors(W, vocab, ivocab):
             full_data = [line.rstrip().split(' ') for line in f]
             full_count += len(full_data)
             data = [x for x in full_data if all(word in vocab for word in x)]
-
+    
         indices = np.array([[vocab[word] for word in row] for row in data])
         ind1, ind2, ind3, ind4 = indices.T
 
