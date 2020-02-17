@@ -59,3 +59,6 @@ python eval/python/evaluate.py \
 
 ### License
 All work contained in this package is licensed under the Apache License, Version 2.0. See the include LICENSE file.
+
+# Contributor
+[![](https://sourcerer.io/fame/sagorbrur/sagorbrur/GloVe-Bengali/images/0)](https://sourcerer.io/fame/sagorbrur/sagorbrur/GloVe-Bengali/links/0)[![](https://sourcerer.io/fame/sagorbrur/sagorbrur/GloVe-Bengali/images/1)](https://sourcerer.io/fame/sagorbrur/sagorbrur/GloVe-Bengali/links/1)[![](https://sourcerer.io/fame/sagorbrur/sagorbrur/GloVe-Bengali/images/2)](https://sourcerer.io/fame/sagorbrur/sagorbrur/GloVe-Bengali/links/2)[![](https://sourcerer.io/fame/sagorbrur/sagorbrur/GloVe-Bengali/images/3)](https://sourcerer.io/fame/sagorbrur/sagorbrur/GloVe-Bengali/links/3)[![](https://sourcerer.io/fame/sagorbrur/sagorbrur/GloVe-Bengali/images/4)](https://sourcerer.io/fame/sagorbrur/sagorbrur/GloVe-Bengali/links/4)[![](https://sourcerer.io/fame/sagorbrur/sagorbrur/GloVe-Bengali/images/5)](https://sourcerer.io/fame/sagorbrur/sagorbrur/GloVe-Bengali/links/5)[![](https://sourcerer.io/fame/sagorbrur/sagorbrur/GloVe-Bengali/images/6)](https://sourcerer.io/fame/sagorbrur/sagorbrur/GloVe-Bengali/links/6)[![](https://sourcerer.io/fame/sagorbrur/sagorbrur/GloVe-Bengali/images/7)](https://sourcerer.io/fame/sagorbrur/sagorbrur/GloVe-Bengali/links/7)
